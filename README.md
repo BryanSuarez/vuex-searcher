@@ -1,2 +1,21 @@
-# vuex-searcher
-Little app to better my skill with vuex, this is a search app to manage the statement
+# vuex-search
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
